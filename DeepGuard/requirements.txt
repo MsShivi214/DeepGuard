@@ -1,0 +1,6 @@
+streamlit
+tensorflow>=2.12
+keras>=3.0
+opencv-python
+pillow
+matplotlib 
